@@ -1,5 +1,5 @@
 # How to delete all your pending friend's requests on Facebook ?
-This is a short tutorial to show you how to execute a small script to delete all your pending friend's requests at once.
+A tutorial to show you how to execute a small script, to delete all your pending friend's requests at once.
 
 This script works well with the _Google Chrome_ webbrowser.
 
@@ -18,8 +18,8 @@ Then scroll down a bit and click on the `Show more requests` link until there is
 
 
 2. Open the Javascript Console  
-Sometimes it may ask you to type some words to allow you to execute a script command.  
-This is to prevent you to execute bad scripts found somewhere, 
+_It may ask you to type some words to allow you to execute a script command.
+This is to prevent you to execute bad scripts (viruses, malwares, etc.)._
   1. **Chrome users**  
 Press : `Ctrl` + `Shift` + `J` (Windows) / `Cmd` + `Opt` + `J` (Mac)
 
@@ -38,5 +38,5 @@ Press : `Ctrl` + `F4`
 
 
 #### Result
-You should see all the "Delete Request" button turning into a "Mark as Spam" button.  
+You should see all the "Delete Request" buttons turning into "Mark as Spam" buttons.  
 Done. :+1:
